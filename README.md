@@ -1,5 +1,5 @@
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using <strong>Laravel</strong>, I am <em>passionate</em> about discovering new technologies and leveraging them to create high-quality solutions. Today, I am a <strong>junior backend developer</strong>, dedicated to web development
+<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using <strong>Laravel</strong>, I am <em>passionate</em> about discovering new technologies and leveraging them to create high-quality solutions. Today, I am a <strong>junior backend developer</strong>, dedicated to web development.
 <br>-<br>Sou da área de desenvolvimento backend utilizando <strong>Laravel</strong>. Tenho paixão por descobrir novas tecnologias e utilizá-las para criar soluções de alta qualidade. Atualmente sou um <strong>desenvolvedor backend júnior</strong>, dedicado ao desenvolvimento web.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
